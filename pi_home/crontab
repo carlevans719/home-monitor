@@ -1,0 +1,1 @@
+0 0 * * * find /home/pi/Monitor -mtime 2 -delete
